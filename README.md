@@ -19,7 +19,7 @@ Following the gitflow workflow, you should create a feature branch that includes
 1. Clone this repository to your local machine.
 2. Check out a feature branch with your name (e.g. `git checkout -b your-name`).
 3. Create a new Markdown file (.md file extension) or upload a new Jupyter Notebook in this repository for each exercise you write.
-4. Use proper Markdown formatting.
+4. Use proper [Markdown formatting](https://help.github.com/categories/writing-on-github/).
 5. Commit your changes.
 6. Push your feature branch to this repository on GitHub.
 7. Open a pull request for your feature branch. Do **not** merge your feature branch. Assign `mikesjewett` as the reviewer.
