@@ -12,13 +12,13 @@ For context, review [this exercise on JavaScript data types](https://www.codecad
 
 **Please submit your answers within 72 hours.** We will evaluate your assignment on technical accuracy, structure, delivery, clarity, tone, and overall editorial quality. We encourage you to consider these criteria for success and take creative risks with your lesson.
 
-We use Git, text files, and [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) extensively during the content creation process and our written application follows the same process.
+We use Git, text files or Jupyter Notebooks, and [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) extensively during the content creation process and our written application follows the same process.
 
 Following the gitflow workflow, you should create a feature branch that includes your answers. This is a private repository. Your submission will not be shared with anyone else.
 
 1. Clone this repository to your local machine.
 2. Check out a feature branch with your name (e.g. `git checkout -b your-name`).
-3. Create a new Markdown file (.md file extension) in this repository for each exercise you write.
+3. Create a new Markdown file (.md file extension) or upload a new Jupyter Notebook in this repository for each exercise you write.
 4. Use proper Markdown formatting.
 5. Commit your changes.
 6. Push your feature branch to this repository on GitHub.
