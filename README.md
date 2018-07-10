@@ -24,8 +24,6 @@ Following the gitflow workflow, you should create a feature branch that includes
 6. Push your feature branch to this repository on GitHub.
 7. Open a pull request for your feature branch. Do **not** merge your feature branch. Assign `mikesjewett` as the reviewer.
 
-**Note:** If you want to use Jupyter Notebook instead of .md file(s), feel free to upload Jupyter Notebook file(s) instead of following Step 3 and 4.
-
 We assess this writing assignment very carefully. We expect you to follow the instructions, write thoughtfully, and take creative risks with your submission. Approach this assignment as if you are writing content that will be available to our millions of passionate learners.
 
 We will reply within five business days of your submittal. Thanks, and good luck!
