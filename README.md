@@ -6,7 +6,7 @@ We ask that candidates submit a written assignment as part of their interview pr
 
 2. Write **at least one exercise** for the learning standard. The number of exercises you write is for you to decide. Regardless of the number of exercises, make sure your lesson covers the learning standard in its entirety. Your exercise(s) should include narrative and exercise steps with code.
 
-For context, review [this exercise on JavaScript data types](https://www.codecademy.com/en/courses/learn-javascript/lessons/introduction-to-javascript/exercises/types). Each exercise is a part of a lesson, and each lesson is a part of a course. Review our [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) to become familiar with our course structure. Familiarity with our course structure may help you scope your exercises appropriately.
+For context, review [this exercise on the WHERE clause in SQL](https://www.codecademy.com/courses/learn-sql-queries/lessons/queries/exercises/where). Each exercise is a part of a lesson, and each lesson is a part of a course. Review our [Learn SQL](https://www.codecademy.com/learn/learn-sql) to become familiar with our course structure. Familiarity with our course structure may help you scope your exercises appropriately.
 
 ### Submitting
 
