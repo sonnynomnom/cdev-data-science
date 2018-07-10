@@ -1,4 +1,4 @@
-Thank you for your interest in the **Curriculum Developer - Data Science** role.
+Thank you for your interest in the **Curriculum Developer - Data Science Path** role.
 
 We ask that candidates submit a written assignment as part of their interview process. This assignment simulates a task that you'll have as a Curriculum Developer.
 
